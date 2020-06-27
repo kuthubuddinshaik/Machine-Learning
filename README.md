@@ -1,4 +1,4 @@
-# Machine-Learning
+# Customer Review segmentation and Value
 
 I have collected a set of reviews from a local retsaurant and formatted them into a tsv file. The reason for doing this is i wanted to understand wether we were able to apply Machine learning
 to our real world problems.
